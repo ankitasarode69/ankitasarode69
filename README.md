@@ -42,6 +42,17 @@ Computer Engineering Student | Data Analytics Enthusiast | AWS Learner
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitasarode69&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasarode69&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitasarode69&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 - 🎓 Third-year B.Tech Computer Engineering student.
 - 📊 Exploring Data Analytics and data-driven decision-making.
